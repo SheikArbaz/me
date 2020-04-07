@@ -1,10 +1,10 @@
 let resumeData = {
-  "imagebaseurl":"https://techonoeticsclub.github.io/",
-  "name": "John Doe",
-  "role": "Frontend Developer",
+  "imagebaseurl":"https://sheikarbaz.github.io/",
+  "name": "Arbaz Sheik",
+  "role": "Application Developer",
   "linkedinId":"Your LinkedIn Id",
   "skypeid": "Your skypeid",
-  "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+  "roleDescription": " I try to make this world a better place through the power of technology",
   "socialLinks":[
       {
         "name":"linkedin",
@@ -27,7 +27,7 @@ let resumeData = {
   "website":"https://www.codeclassifiers.com",
   "education":[
     {
-      "UniversityName":"Mumbai University",
+      "UniversityName":"Some University",
       "specialization":"Some specialization",
       "MonthOfPassing":"Jan",
       "YearOfPassing":"2018",
